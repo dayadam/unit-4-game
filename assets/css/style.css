@@ -1,0 +1,32 @@
+.gem {
+    border: 5px solid black;
+}
+
+body {
+    background: #615D6C;
+}
+
+.container {
+    background: #6F8AB7;
+    border-radius: 10px;
+}
+
+.row {
+    background: #CAE5FF; 
+    margin: 10px;
+    border: 10px solid #89BBFE;
+    border-radius: 10px;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+}
+
+p {
+    font-size: 16px;
+}
+
+.extra-space{
+    margin-right: 6px;
+}
