@@ -14,6 +14,8 @@ $(document).ready(function() {
     let pinkGem = gemNumber();
     let greenGem = gemNumber();
 
+
+
     $(".random-number").text(randomNumber);
 
     $(".gem").on("click", function () {
